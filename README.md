@@ -2,7 +2,7 @@
 **Dorian Grolaux**’s GitHub Profile README
 -->
 
-# 👋 Hi there, I’m Dorian, but you can call me Skwiggs
+# 👋 Hi there, I’m Skwiggs
 
 
 ## 🚀 About Me
@@ -12,6 +12,8 @@ I’m a Senior iOS & Swift Engineer based in the Netherlands with over 10 years 
 
 ## 🛠️ Tech & Tools
 
+Here are a few of my favorite technologies and tools:
+
 - **Core**: Swift (Structured Concurrency, Reactive patterns)  
 - **iOS**: SwiftUI · AVFoundation · Combine · XCTest · XCUITests · Swift Testing  
 - **Beyond iOS**:  
@@ -19,26 +21,27 @@ I’m a Senior iOS & Swift Engineer based in the Netherlands with over 10 years 
   - Back-end with [Vapor](https://github.com/vapor/vapor)  
   - Web with [Ignite](https://github.com/twostraws/Ignite)  
 
-## 📝 Recent Projects
+## 📝 Projects
 
-### Freelance
+### StreamCam
+I'm the author of [StreamCam](https://www.streamcam.app/), a self-published iOS app that turns your iPhone into a wireless webcam for Mac, PC, or Linux. It supports low-latency streaming and works out of the box with apps like OBS and Twitch Studio.
 
-#### RocketSim Insights 
-I'm currently freelancing for Antoine van der Lee where I'm contributing Vapor-based backend work for his [RocketSim Insights](https://www.rocketsim.app/team-insights/) platform.
+### RocketSim Insights
+I'm freelancing for Antoine van der Lee, contributing to [RocketSim Insights](https://www.rocketsim.app/team-insights/) with Vapor-based backend work.
 
-### Speaking
-#### ServerSide.swift Lightning Talk
-I presented “Running Vapor on iOS” at [ServerSide.swift London 2022](https://www.serversideswift.info/2022/schedule/).
+### ServerSide.swift Lightning Talk
+I gave a short talk about "Running Vapor on iOS" at [ServerSide.swift London 2022](https://www.serversideswift.info/2022/schedule/). You can find the demo project I presented here: [Github](https://github.com/MrSkwiggs/ServerSide-Swift-Project)
 
 ### Take-home assignments
+I've completed several take-home assignments to showcase my development approach; feel free to explore:
 
-#### Pinch
-Modern iOS app fetching IGDB games with SwiftData caching and clean SwiftUI UI.  
-[GitHub repo](https://github.com/MrSkwiggs/Pinch-Assignment)
-
-#### New Black
-SpaceX launches & rockets app built with SwiftUI, Swift Concurrency, and MVVM.  
-[GitHub repo](https://github.com/MrSkwiggs/NEWBLACK-assignment) 
+| Year | Company    | Description                                                                 | GitHub Repo Link                                                      |
+|------|------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------|
+| 2025 | NewBlack   | SpaceX launches & rockets app built with SwiftUI, Swift Concurrency, MVVM   | [GitHub](https://github.com/MrSkwiggs/NEWBLACK-assignment)            |
+| 2025 | Pinch      | Modern iOS app fetching IGDB games with SwiftData caching & SwiftUI UI      | [GitHub](https://github.com/MrSkwiggs/Pinch-Assignment)               |
+| 2022 | BeReal     | A file/folder sharing app written in SwiftUI                                | [GitHub](https://github.com/MrSkwiggs/Be.Real-Assignment)             |
+| 2022 | DataDog    | A system-metrics monitoring app written in SwiftUI                          | [GitHub](https://github.com/MrSkwiggs/DataDog)                        |
+| 2022 | Tiqets     | A museum/expo app written in SwiftUI                                        | [GitHub](https://github.com/MrSkwiggs/tiqets-assignment)              |
 
 ## 💼 Employment
 
@@ -50,14 +53,14 @@ SpaceX launches & rockets app built with SwiftUI, Swift Concurrency, and MVVM.
   - Developed a 100% SwiftUI app with shared Kotlin Multiplatform core.  
 
 - **OneFit** — iOS Engineer (Apr 2019 – May 2021)  
-  - Rewrote 90% of code in Swift, boosting app rating from 3.8★ to 4.8★ and stability from ~70% to 99%.  
+  - Rewrote 90% of code in Swift, boosting app rating from 3.8⭐ to 4.8⭐ and stability from ~70% to 99%.  
   - Split the codebase into a native SDK and overhauled CI/CD with GitHub Actions.  
 
 - **IBM** — iOS Developer (Oct 2015 – Mar 2019)  
   - Established native iOS pipelines, led code reviews & Git workflows.  
   - Explored ML/AI integrations in mobile contexts.  
 
-## 📫 Let’s Connect
+## 📣 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/skwiggs)  
 - ✉️ dorian@skwiggs.dev  
