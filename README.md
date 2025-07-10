@@ -44,21 +44,14 @@ I've completed several take-home assignments to showcase my development approach
 | 2022 | Tiqets     | A museum/expo app written in SwiftUI                                        | [GitHub](https://github.com/MrSkwiggs/tiqets-assignment)              |
 
 ## 💼 Employment
-
-- **Profoto** — Sr. iOS Engineer (Apr 2023 – Jun 2025)  
-  - Built Swift/Vapor cloud services and modernized iPad, iOS & macOS apps.  
-  - Introduced end-to-end testing with Swift Tests & UI Tests.  
-
-- **data.ai** — iOS Engineer (May 2021 – Mar 2023)  
-  - Developed a 100% SwiftUI app with shared Kotlin Multiplatform core.  
-
-- **OneFit** — iOS Engineer (Apr 2019 – May 2021)  
-  - Rewrote 90% of code in Swift, boosting app rating from 3.8⭐ to 4.8⭐ and stability from ~70% to 99%.  
-  - Split the codebase into a native SDK and overhauled CI/CD with GitHub Actions.  
-
-- **IBM** — iOS Developer (Oct 2015 – Mar 2019)  
-  - Established native iOS pipelines, led code reviews & Git workflows.  
-  - Explored ML/AI integrations in mobile contexts.  
+- **New Black**: Swift Engineer (July 2025 - Present)
+- **RocketSim**: Swift Engineer (July 2025 - Present)
+  - Vapor
+- **Profoto**: Swift Engineer (Apr 2023 - Jun 2025)
+  - iOS/Vapor 
+- **data.ai**: iOS Engineer (May 2021 - Mar 2023)
+- **OneFit**: iOS Engineer (Apr 2019 - May 2021)
+- **IBM**: iOS Developer (Oct 2015 - Mar 2019)
 
 ## 📣 Let’s Connect
 
