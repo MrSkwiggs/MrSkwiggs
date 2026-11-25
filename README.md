@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a Senior iOS & Swift Engineer based in the Netherlands with over 10 years of experience crafting high-performance, user-centric apps. I have a total passion for Swift (ask me about my tattoo 👀) and I love applying its full power from SwiftUI to Vapor backends, scripting, and beyond. I'm always curious and always learning.
+I’m a Senior iOS & Swift Engineer based in the Netherlands with over 11 years of experience crafting high-performance, user-centric apps. I have a total passion for Swift (ask me about my tattoo 👀) and I love applying its full power from SwiftUI to Vapor backends, scripting, and beyond. I'm always curious and always learning.
 
 
 ## 🛠️ Tech & Tools
